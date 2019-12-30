@@ -1,7 +1,7 @@
 
 //bandsintown
 This project was generated with Angular
-link: https://github.com/Hamza2231/Assigment-angular
+link: https://github.com/Hamza2231/repo_
 
 //Development server
 Run `ng serve` for a dev server. (It will run on (localhost:4200))
